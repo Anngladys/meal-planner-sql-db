@@ -17,7 +17,10 @@ This project is a relational database for managing household meals, grocery list
 3. Explore the schema and run queries.
 
 ## 🧠 ERD (Entity Relationship Diagram)
-[Insert screenshot or link to ERD here]
+<img width="739" height="593" alt="image" src="https://github.com/user-attachments/assets/0c66f83c-9e70-4ce1-b31b-0a2c743b302e" />
 
+<img width="739" height="593" alt="image" src="https://github.com/user-attachments/assets/e72f9aa0-18e5-4918-93dd-ebdc94ebc28d" />
+
+Link: https://dbdiagram.io/d/meal_tracker-sql-68950f93dd90d17865fb6825
 ## 👩‍💻 Built With
 - MySQL 8
